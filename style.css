@@ -1,0 +1,118 @@
+html {
+	background-color: #f3f3f3;
+}
+
+html, body {
+	font-family: 'Lato', 'Helvetica', 'Arial', sans-serif;
+
+}
+
+.clear {
+	clear: both;
+}
+
+.mainDetails {
+	padding: 25px 35px;
+	border-bottom: solid 2px #cf8a05;
+}
+
+h2 {
+	font-weight: normal;
+}
+
+#contactDetails {
+	text-decoration: none;
+}
+
+#top {
+	margin: 8px;
+	padding: 8px;
+}
+
+#cv {
+	margin: 30px 40px;
+}
+
+#headshot {
+	width: auto;
+	float: left;
+	margin-right: 30px;
+}
+
+img {
+	border-radius: 50%;
+	width: 90%;
+	margin-top: 5px;
+}
+
+#name {
+	float: left;
+}
+
+#contactDetails {
+	float: right;
+}
+
+.infodecontato {
+list-style: none;
+font-weight: 200;
+color: #181818;
+}
+
+a {
+	text-decoration: none;
+	color: inherit;
+}
+
+#mainArea {
+	padding: 0px 40px;
+}
+
+section {
+	border-bottom: solid 1px #dedede;
+}
+
+.sectionTitle {
+	float: left;
+	width: 25%;
+	color: #cf8a05;
+	font-family: 'Rokkitt', 'Helvetica', 'Arial', sans-serif;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 1.17em;
+}
+
+.sectionContent {
+	float: right;
+	width: 72.5%;
+	color: #181818;
+}
+
+.sectionContent h2 {
+	margin-bottom: 1px;
+}
+
+.subDetails {
+	font-size: 0.8em;
+    font-style: italic;
+    margin-top: 0px;
+}
+
+.pbugDetails {
+	font-size: 0.8em;
+    font-style: italic;
+    margin-top: 0px;
+}
+
+.keySkills {
+	text-align: left;
+	list-style: none;
+	column-count: 3;
+	padding: 0px;
+	line-height: 21px;
+}
+
+p {
+	text-align: justify;
+	color: #181818;
+}
